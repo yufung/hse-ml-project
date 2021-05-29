@@ -16,4 +16,4 @@ All four proposals were on static data such as single images, which did not matc
 
 * Neural ODEs -> implement generative latent model on toy dataset
 * ODE2VAE -> implement generative model on toy dataset
-* Compare predictive performance of latent ODE model and ODE2VAE on an irregularly-sampled time series dataset (PhysioNet 2012)
+* Compare predictive performance of latent ODE model and ODE2VAE on an irregularly-sampled time series dataset
