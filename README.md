@@ -28,8 +28,14 @@ torchdiffeq==0.2.1
 
 To run experiments on rotating MNIST, you will need to download the data from [here](https://1drv.ms/u/s!AoCg_EHL_pqdhvJXVYVDdL2ww4ibOA).
 
-![Neural ODE on 2D Spiral](https://github.com/yufung/hse-ml-project/blob/master/assets/2dode.png)
+<p align="center">
+<img align="middle" src="./assets/2dode.png" alt="Neural ODE on 2D Spiral" />
+</p>
 
-![Neural ODE on 2D Spiral](https://github.com/yufung/hse-ml-project/blob/master/assets/3dode.png)
+<p align="center">
+<img align="middle" src="./assets/3dode.png" alt="Neural ODE on 2D Spiral" />
+</p>
 
-![ODE2VAE on Rotating MNIST](https://github.com/yufung/hse-ml-project/blob/master/assets/rotmode2.png)
+<p align="center">
+<img align="middle" src="./assets/rotmode2.png" alt="ODE2VAE on Rotating MNIST" />
+</p>
