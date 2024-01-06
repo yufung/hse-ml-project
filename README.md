@@ -6,7 +6,7 @@
 [2] [Ç. Yıldız, M. Heinonen, and H. Lähdesmäki. Ode2vae: Deep generative second order odes with bayesian neural networks. In _Advances in neural information processing systems_, pages 13412–13421, 2019.](https://papers.nips.cc/paper/2019/hash/99a401435dcb65c4008d3ad22c8cdad0-Abstract.html)
 
 ### Proposal
-[Link to proposal](https://drive.google.com/file/d/1wYOQbOV9dqvrUUKVh5L44Rt7pOWwCv8u/view?usp=sharing)
+[Link to proposal](https://github.com/yufung/hse-ml-project/blob/main/docs/HSE-ML-Project-Proposal.pdf)
 
 All four proposals were on static data such as single images, which did not match the general theme of the project on modelling raw data with time-dependence structure. The final research direction was modified from Proposal 2 and my new focus will be on comparing time dynamic modelling between neural first order and second order ordinary differential equations.
 
